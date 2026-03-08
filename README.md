@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hndyyy&label=Profile%20views&color=0e75b6&style=flat" alt="hndyyy" /> </p>
 
-- 🔭 I’m currently intern on **Sekawan Media**
+- 🔭 I’m currently **Unemployed**
 
 - 🌱 I’m currently learning **C++**
 
